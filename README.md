@@ -65,39 +65,38 @@ Demo** - Delta Lake + Spark SQL
 
 ## 🛠️ Languages, Frameworks & Tools
 
-### 💻 Languages
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,js,cpp,csharp" />
-</div>
+### 📌 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 📊 Data Science & ML
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,keras,pandas,numpy" />
-</div>
-
-### 🌐 Web Development
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,html,css,bootstrap,spring" />
-    <img src="https://img.icons8.com/color/48/000000/thymeleaf.png" />
-</div>
+### 🌐 Frameworks & Web Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Tools & Platforms
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,aws,linux,windows,apple" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" />
-    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
-    <img src="https://img.icons8.com/color/48/000000/jupyter.png" />
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-</div>
+### ☁️ Cloud & Operating Systems
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+### ⚙️ Tools & IDEs
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+------------------------------------------------------------------------
 
 ## 📊 Learning Journey - IHK Data Engineering with Python:
 
