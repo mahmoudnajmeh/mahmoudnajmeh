@@ -9,6 +9,7 @@
 ## 🚀 Current Focus:
 
 - **Completed Data Engineering with Python** at DCI Digital Career Institute
+- **Data Analysis Fundamentals (IHK Certificate)** — in progress
 - Building end-to-end data pipelines & ML systems
 - Working with the modern data stack: Spark, Airflow, Kafka, Dagster, Delta Lake, Apache Iceberg, MLflow
 
