@@ -45,13 +45,6 @@ SQL\
 - **API Design:** RESTful architecture, Security, Documentation
 - **Database:** Query optimization, Indexing, Performance tuning
 
-## 📌 Featured Projects:
-
-*(Coming soon - Data Engineering projects)* - **Real-time Data
-Pipeline** - Kafka + Spark Streaming + Airflow - **ML Model Registry
-System** - MLflow + scikit-learn + FastAPI - **Lakehouse Architecture
-Demo** - Delta Lake + Spark SQL
-
 ## 💬 Ask Me About:
 
 - Building scalable data pipelines with Spark & Airflow
