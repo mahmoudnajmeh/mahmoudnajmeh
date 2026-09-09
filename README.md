@@ -2,15 +2,15 @@
 
 *Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Airflow · Cloud*\
 📍 Based in Berlin, Germany 🇩🇪\
-🎓 IHK-certified Data Engineering (in progress)
+🎓 Completed Data Engineering with Python at DCI Digital Career Institute
 
 ------------------------------------------------------------------------
 
 ## 🚀 Current Focus:
 
--   **IHK-certified Data Engineering with Python** at DCI
--   Building end-to-end data pipelines & ML systems
--   Exploring the modern data stack: Spark, Airflow, dbt, MLflow
+- **Completed Data Engineering with Python** at DCI Digital Career Institute
+- Building end-to-end data pipelines & ML systems
+- Working with the modern data stack: Spark, Airflow, Kafka, Dagster, Delta Lake, Apache Iceberg, MLflow
 
 ## 🛠️ Tech Stack:
 
@@ -39,12 +39,10 @@ SQL\
 
 ### Best Practices:
 
--   **Data Engineering:** Data Quality, Lineage, Observability,
-    Governance
--   **Software Engineering:** Clean Code, Design Patterns, TDD, SOLID
-    Principles
--   **API Design:** RESTful architecture, Security, Documentation
--   **Database:** Query optimization, Indexing, Performance tuning
+- **Data Engineering:** Data Quality, Lineage, Observability, Governance
+- **Software Engineering:** Clean Code, Design Patterns, TDD, SOLID Principles
+- **API Design:** RESTful architecture, Security, Documentation
+- **Database:** Query optimization, Indexing, Performance tuning
 
 ## 📌 Featured Projects:
 
@@ -55,11 +53,11 @@ Demo** - Delta Lake + Spark SQL
 
 ## 💬 Ask Me About:
 
--   Building scalable data pipelines with Spark & Airflow
--   MLflow for experiment tracking & model registry
--   Transitioning from Full-Stack to Data Engineering
--   REST API optimization & database performance
--   Java/C#/Python best practices
+- Building scalable data pipelines with Spark & Airflow
+- MLflow for experiment tracking & model registry
+- Transitioning from Full-Stack to Data Engineering
+- REST API optimization & database performance
+- Java/C#/Python best practices
 
 ------------------------------------------------------------------------
 
@@ -115,19 +113,20 @@ Demo** - Delta Lake + Spark SQL
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
 ------------------------------------------------------------------------
 
-## 📊 Learning Journey - IHK Data Engineering with Python:
+## 📊 Data Engineering with Python - Completed
 
 ✅ Core Tech Fundamentals\
-🔄 Data Acquisition & Integration (in progress)\
-⏳ Cloud Data Engineering\
-⏳ Data Streams & Orchestration\
-⏳ Data Platforms (Lakes & Lakehouses)\
-⏳ Data Quality & Governance\
-⏳ ML for Data Engineers\
-⏳ Final Project
+✅ Data Acquisition & Integration\
+✅ Cloud Data Engineering\
+✅ Data Streams & Orchestration\
+✅ Data Platforms (Lakes & Lakehouses)\
+✅ Data Quality & Governance\
+✅ ML for Data Engineers\
+✅ Final Project
+
+**DCI Digital Career Institute | 27.02.2026 - 14.08.2026**
 
 ------------------------------------------------------------------------
 
