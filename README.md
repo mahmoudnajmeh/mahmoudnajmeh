@@ -1,10 +1,39 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                    MAHMOUD NAJMEH · PROFILE                        ║
+║          Data Engineering · Software · Cloud · ML Systems          ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MAHMOUD%20NAJMEH&fontAlign=50&fontAlignY=38&desc=DATA%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20CLOUD%20%E2%80%A2%20ML%20SYSTEMS&descAlign=50&descAlignY=60&animation=fadeIn&fontSize=42" width="100%" alt="Mahmoud Najmeh profile header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&center=true&vCenter=true&width=900&lines=ETL%2FELT+%E2%80%A2+Streaming+%E2%80%A2+Big+Data+%E2%80%A2+Distributed+Systems;Spark+%E2%80%A2+Kafka+%E2%80%A2+Airflow+%E2%80%A2+Dagster+%E2%80%A2+Cloud;Building+reliable+data+pipelines+and+intelligent+systems" alt="Typing SVG" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center"><b>DATA</b><br/><sub>Engineering</sub></td>
+<td align="center"><b>STREAM</b><br/><sub>Real-time</sub></td>
+<td align="center"><b>CLOUD</b><br/><sub>Platforms</sub></td>
+<td align="center"><b>ML</b><br/><sub>Systems</sub></td>
+<td align="center"><b>CODE</b><br/><sub>Software</sub></td>
+</tr>
+</table>
+
 # 👋 Hello! I'm Mahmoud Najmeh
 
 *Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Airflow · Cloud*\
 📍 Based in Berlin, Germany 🇩🇪\
 🎓 Completed Data Engineering with Python at DCI Digital Career Institute
 
-------------------------------------------------------------------------
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
 
 ## 🚀 Current Focus:
 
@@ -53,7 +82,11 @@ SQL\
 - REST API optimization & database performance
 - Java/C#/Python best practices
 
-------------------------------------------------------------------------
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
 
 ## 🛠️ Languages, Frameworks & Tools
 
@@ -107,7 +140,11 @@ SQL\
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-------------------------------------------------------------------------
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
 
 ## 📊 Data Engineering with Python - Completed
 
@@ -122,8 +159,20 @@ SQL\
 
 **DCI Digital Career Institute | 27.02.2026 - 14.08.2026**
 
-------------------------------------------------------------------------
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
 
 #### 🏷️ Pronouns: He/Him
 
 #### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" alt="Profile footer"/>
+
+<sub>ENGINEER THE PIPELINE · TRUST THE DATA · SHIP THE SYSTEM</sub>
+
+</div>
