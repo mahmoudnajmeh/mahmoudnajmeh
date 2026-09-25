@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/premium-data-flow.gif" width="100%" alt=""/>
+  <img src="./assets/data-architecture-blueprint.gif" width="100%" alt=""/>
+</p>
+
+<p align="center">
+  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
 </p>
 
 <!-- Single-file GitHub-native design: no external assets required -->
@@ -16,7 +20,7 @@
 </div>
 
 <p align="center">
-<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
 </p>
 
 <table>
@@ -56,7 +60,7 @@
 </table>
 
 <p align="center">
-<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
+  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
 </p>
 
 <details open>
@@ -97,7 +101,7 @@ SQL\
 </details>
 
 <p align="center">
-<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>
+  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
 </p>
 
 <details open>
@@ -158,7 +162,7 @@ SQL\
 </details>
 
 <p align="center">
-<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
+  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
 </p>
 
 <details open>
@@ -180,7 +184,7 @@ SQL\
 </details>
 
 <p align="center">
-<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
 </p>
 
 <div align="center">
