@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="./assets/data-architecture-blueprint.gif" width="100%" alt=""/>
+  <img src="./assets/data-engineering-architecture.png" width="100%" alt="Data Engineering Architecture"/>
 </p>
 
-<p align="center">
-  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
-</p>
+------------------------------------------------------------------------
 
 <!-- Single-file GitHub-native design: no external assets required -->
 
@@ -18,10 +16,6 @@
 🎓 Completed Data Engineering with Python at DCI Digital Career Institute
 
 </div>
-
-<p align="center">
-  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
-</p>
 
 <table>
 <tr>
@@ -59,9 +53,7 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
-</p>
+------------------------------------------------------------------------
 
 <details open>
 <summary><b>🛠️ Tech Stack:</b></summary>
@@ -100,9 +92,7 @@ SQL\
 
 </details>
 
-<p align="center">
-  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
-</p>
+------------------------------------------------------------------------
 
 <details open>
 <summary><b>🛠️ Languages, Frameworks & Tools</b></summary>
@@ -161,9 +151,7 @@ SQL\
 
 </details>
 
-<p align="center">
-  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
-</p>
+------------------------------------------------------------------------
 
 <details open>
 <summary><b>📊 Data Engineering with Python - Completed</b></summary>
@@ -183,9 +171,7 @@ SQL\
 
 </details>
 
-<p align="center">
-  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
-</p>
+------------------------------------------------------------------------
 
 <div align="center">
 
@@ -195,7 +181,3 @@ SQL\
 
 </div>
 
-
-<p align="center">
-  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
-</p>
