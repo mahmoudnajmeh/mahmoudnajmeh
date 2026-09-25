@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/data-topology.gif" width="100%" alt=""/>
+</p>
+
 <!-- Single-file GitHub-native design: no external assets required -->
 
 <div align="center">
@@ -186,3 +190,8 @@ SQL\
 #### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
 
 </div>
+
+
+<p align="center">
+  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+</p>
