@@ -1,26 +1,10 @@
-<div align="center">
-
 # 👋 Hello! I'm Mahmoud Najmeh
 
 *Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Airflow · Cloud*\
 📍 Based in Berlin, Germany 🇩🇪\
 🎓 Completed Data Engineering with Python at DCI Digital Career Institute
 
-<br>
-
-<img src="./assets/data-pipeline.gif" width="100%" alt="Animated data engineering pipeline"/>
-
-<br>
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
-  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
-  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
-  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
-  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
-</p>
+------------------------------------------------------------------------
 
 ## 🚀 Current Focus:
 
@@ -69,13 +53,7 @@ SQL\
 - REST API optimization & database performance
 - Java/C#/Python best practices
 
-<p align="center">
-  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
-  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
-  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
-  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
-  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
-</p>
+------------------------------------------------------------------------
 
 ## 🛠️ Languages, Frameworks & Tools
 
@@ -129,13 +107,7 @@ SQL\
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
-  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
-  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
-  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
-  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
-</p>
+------------------------------------------------------------------------
 
 ## 📊 Data Engineering with Python - Completed
 
@@ -150,23 +122,8 @@ SQL\
 
 **DCI Digital Career Institute | 27.02.2026 - 14.08.2026**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
-  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
-  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
-  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
-  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
-</p>
+------------------------------------------------------------------------
 
 #### 🏷️ Pronouns: He/Him
 
 #### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DATA-ENGINEERING-0A84FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STREAMING-REAL--TIME-00C49A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLOUD-PLATFORMS-7C4DFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-SYSTEMS-FFB000?style=for-the-badge" />
-</p>
