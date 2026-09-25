@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/data-topology.gif" width="100%" alt=""/>
+  <img src="./assets/premium-data-flow.gif" width="100%" alt=""/>
 </p>
 
 <!-- Single-file GitHub-native design: no external assets required -->
@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
 </p>
 
 <table>
@@ -56,7 +56,7 @@
 </table>
 
 <p align="center">
-  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
 </p>
 
 <details open>
@@ -97,7 +97,7 @@ SQL\
 </details>
 
 <p align="center">
-  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>
 </p>
 
 <details open>
@@ -158,7 +158,7 @@ SQL\
 </details>
 
 <p align="center">
-  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
 </p>
 
 <details open>
@@ -180,7 +180,7 @@ SQL\
 </details>
 
 <p align="center">
-  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
 </p>
 
 <div align="center">
@@ -193,5 +193,5 @@ SQL\
 
 
 <p align="center">
-  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+  <img src="./assets/luminous-divider.gif" width="100%" alt=""/>
 </p>
