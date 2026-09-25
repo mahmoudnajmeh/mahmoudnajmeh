@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
 </p>
 
 <table>
@@ -56,7 +56,7 @@
 </table>
 
 <p align="center">
-<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
+  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
 </p>
 
 <details open>
@@ -97,7 +97,7 @@ SQL\
 </details>
 
 <p align="center">
-<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>
+  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
 </p>
 
 <details open>
@@ -158,7 +158,7 @@ SQL\
 </details>
 
 <p align="center">
-<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
+  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
 </p>
 
 <details open>
@@ -180,7 +180,7 @@ SQL\
 </details>
 
 <p align="center">
-<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
 </p>
 
 <div align="center">
