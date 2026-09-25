@@ -1,28 +1,64 @@
-<p align="center">
-  <img src="./assets/data-lineage-header.svg" width="100%" alt="Mahmoud Najmeh data engineering profile"/>
-</p>
+<!-- Single-file GitHub-native design: no external assets required -->
 
-<!-- ╭────────────────────────────── DATA PLANE ──────────────────────────────╮ -->
-<!-- │  The content below is the original profile copy. Only presentation     │ -->
-<!-- │  structure/decorative separators are changed.                          │ -->
-<!-- ╰────────────────────────────────────────────────────────────────────────╯ -->
+<div align="center">
 
 # 👋 Hello! I'm Mahmoud Najmeh
+
 
 *Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Airflow · Cloud*\
 📍 Based in Berlin, Germany 🇩🇪\
 🎓 Completed Data Engineering with Python at DCI Digital Career Institute
 
-<p align="center"><code>●━━━━━━━●━━━━━━━●━━━━━━━●━━━━━━━●</code></p>
+</div>
 
-## 🚀 Current Focus:
+<p align="center">
+<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<details open>
+<summary><b>🚀 Current Focus:</b></summary>
+
+<br>
 
 - **Completed Data Engineering with Python** at DCI Digital Career Institute
 - **Data Analysis Fundamentals (IHK Certificate)** in progress
 - Building end-to-end data pipelines & ML systems
 - Working with the modern data stack: Spark, Airflow, Kafka, Dagster, Delta Lake, Apache Iceberg, MLflow
 
-## 🛠️ Tech Stack:
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+<details open>
+<summary><b>💬 Ask Me About:</b></summary>
+
+<br>
+
+- Building scalable data pipelines with Spark & Airflow
+- MLflow for experiment tracking & model registry
+- Transitioning from Full-Stack to Data Engineering
+- REST API optimization & database performance
+- Java/C#/Python best practices
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
+</p>
+
+<details open>
+<summary><b>🛠️ Tech Stack:</b></summary>
+
+<br>
 
 ### Data Engineering & ML:
 
@@ -54,17 +90,16 @@ SQL\
 - **API Design:** RESTful architecture, Security, Documentation
 - **Database:** Query optimization, Indexing, Performance tuning
 
-## 💬 Ask Me About:
+</details>
 
-- Building scalable data pipelines with Spark & Airflow
-- MLflow for experiment tracking & model registry
-- Transitioning from Full-Stack to Data Engineering
-- REST API optimization & database performance
-- Java/C#/Python best practices
+<p align="center">
+<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>
+</p>
 
-<p align="center"><code>●━━━━━━━●━━━━━━━●━━━━━━━●━━━━━━━●</code></p>
+<details open>
+<summary><b>🛠️ Languages, Frameworks & Tools</b></summary>
 
-## 🛠️ Languages, Frameworks & Tools
+<br>
 
 ### 📌 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -116,9 +151,16 @@ SQL\
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<p align="center"><code>●━━━━━━━●━━━━━━━●━━━━━━━●━━━━━━━●</code></p>
+</details>
 
-## 📊 Data Engineering with Python - Completed
+<p align="center">
+<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
+</p>
+
+<details open>
+<summary><b>📊 Data Engineering with Python - Completed</b></summary>
+
+<br>
 
 ✅ Core Tech Fundamentals\
 ✅ Data Acquisition & Integration\
@@ -131,12 +173,16 @@ SQL\
 
 **DCI Digital Career Institute | 27.02.2026 - 14.08.2026**
 
-<p align="center"><code>●━━━━━━━●━━━━━━━●━━━━━━━●━━━━━━━●</code></p>
+</details>
+
+<p align="center">
+<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+</p>
+
+<div align="center">
 
 #### 🏷️ Pronouns: He/Him
 
 #### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
 
-
-<!-- ╭──────────────────────────── END OF STREAM ─────────────────────────────╮ -->
-<p align="center"><code>◉ ───── DATA • STREAM • SYSTEM ───── ◉</code></p>
+</div>
