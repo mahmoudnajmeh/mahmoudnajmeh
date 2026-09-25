@@ -1,64 +1,35 @@
-<!-- Single-file GitHub-native design: no external assets required -->
-
 <div align="center">
 
 # 👋 Hello! I'm Mahmoud Najmeh
-
 
 *Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Airflow · Cloud*\
 📍 Based in Berlin, Germany 🇩🇪\
 🎓 Completed Data Engineering with Python at DCI Digital Career Institute
 
+<br>
+
+<img src="./assets/data-pipeline.gif" width="100%" alt="Animated data engineering pipeline"/>
+
+<br>
+
 </div>
 
 <p align="center">
-<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
+  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
+  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
+  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
+  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<details open>
-<summary><b>🚀 Current Focus:</b></summary>
-
-<br>
+## 🚀 Current Focus:
 
 - **Completed Data Engineering with Python** at DCI Digital Career Institute
 - **Data Analysis Fundamentals (IHK Certificate)** in progress
 - Building end-to-end data pipelines & ML systems
 - Working with the modern data stack: Spark, Airflow, Kafka, Dagster, Delta Lake, Apache Iceberg, MLflow
 
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-<details open>
-<summary><b>💬 Ask Me About:</b></summary>
-
-<br>
-
-- Building scalable data pipelines with Spark & Airflow
-- MLflow for experiment tracking & model registry
-- Transitioning from Full-Stack to Data Engineering
-- REST API optimization & database performance
-- Java/C#/Python best practices
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
-</p>
-
-<details open>
-<summary><b>🛠️ Tech Stack:</b></summary>
-
-<br>
+## 🛠️ Tech Stack:
 
 ### Data Engineering & ML:
 
@@ -90,16 +61,23 @@ SQL\
 - **API Design:** RESTful architecture, Security, Documentation
 - **Database:** Query optimization, Indexing, Performance tuning
 
-</details>
+## 💬 Ask Me About:
+
+- Building scalable data pipelines with Spark & Airflow
+- MLflow for experiment tracking & model registry
+- Transitioning from Full-Stack to Data Engineering
+- REST API optimization & database performance
+- Java/C#/Python best practices
 
 <p align="center">
-<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>━━━━<kbd>◉</kbd>
+  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
+  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
+  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
+  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
+  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
 </p>
 
-<details open>
-<summary><b>🛠️ Languages, Frameworks & Tools</b></summary>
-
-<br>
+## 🛠️ Languages, Frameworks & Tools
 
 ### 📌 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -151,16 +129,15 @@ SQL\
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-</details>
-
 <p align="center">
-<kbd>◉</kbd>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<kbd>◉</kbd>
+  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
+  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
+  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
+  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
+  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
 </p>
 
-<details open>
-<summary><b>📊 Data Engineering with Python - Completed</b></summary>
-
-<br>
+## 📊 Data Engineering with Python - Completed
 
 ✅ Core Tech Fundamentals\
 ✅ Data Acquisition & Integration\
@@ -173,16 +150,23 @@ SQL\
 
 **DCI Digital Career Institute | 27.02.2026 - 14.08.2026**
 
-</details>
-
 <p align="center">
-<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>━━━<kbd>◉</kbd>
+  <img src="https://img.shields.io/badge/INGEST-Kafka%20%7C%20CDC-00B8D9?style=for-the-badge" alt="Ingest"/>
+  <img src="https://img.shields.io/badge/PROCESS-Spark-00C49A?style=for-the-badge" alt="Process"/>
+  <img src="https://img.shields.io/badge/ORCHESTRATE-Airflow-7C4DFF?style=for-the-badge" alt="Orchestrate"/>
+  <img src="https://img.shields.io/badge/STORE-Lakehouse-00B8D9?style=for-the-badge" alt="Store"/>
+  <img src="https://img.shields.io/badge/SERVE-ML-00C49A?style=for-the-badge" alt="Serve"/>
 </p>
-
-<div align="center">
 
 #### 🏷️ Pronouns: He/Him
 
 #### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
 
-</div>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA-ENGINEERING-0A84FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STREAMING-REAL--TIME-00C49A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLOUD-PLATFORMS-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-SYSTEMS-FFB000?style=for-the-badge" />
+</p>
