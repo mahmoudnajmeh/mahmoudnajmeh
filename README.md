@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/data-topology.gif" width="100%" alt=""/>
+</p>
+
 # 👋 Hello! I'm Mahmoud Najmeh
 
 *Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Airflow · Cloud*\
@@ -127,3 +131,8 @@ SQL\
 #### 🏷️ Pronouns: He/Him
 
 #### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
+
+
+<p align="center">
+  <img src="./assets/stream-divider.gif" width="100%" alt=""/>
+</p>
