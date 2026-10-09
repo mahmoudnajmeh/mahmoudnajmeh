@@ -11,9 +11,9 @@
 # 👋 Hello! I'm Mahmoud Najmeh
 
 
-*Data Engineering (ETL/ELT · Streaming · Big Data) | Software Developer | Kafka · Spark · Dagster · Airflow · Cloud*\
+*Data Engineer | Data Analyst (IHK Certified) | Software Developer*\
 📍 Based in Berlin, Germany 🇩🇪\
-🎓 Completed Data Engineering with Python at DCI Digital Career Institute
+🎓 Data Analysis Fundamentals (IHK Certificate, with distinction) · Data Engineering with Python (DCI)
 
 </div>
 
@@ -26,9 +26,9 @@
 
 <br>
 
-- **Completed Data Engineering with Python** at DCI Digital Career Institute
-- **Data Analysis Fundamentals (IHK Certificate)** in progress
-- Building end-to-end data pipelines & ML systems
+- **Completed Data Analysis Fundamentals (IHK Certificate)** with distinction, September 2026
+- **Completed Data Engineering with Python** at DCI Digital Career Institute, August 2026
+- Building end-to-end data pipelines & ML systems, with a focus on data quality and analytical readiness
 - Working with the modern data stack: Spark, Airflow, Kafka, Dagster, Delta Lake, Apache Iceberg, MLflow
 
 </details>
@@ -42,6 +42,7 @@
 <br>
 
 - Building scalable data pipelines with Spark & Airflow
+- Data preparation, exploratory analysis, statistical fundamentals & AI-assisted analysis
 - MLflow for experiment tracking & model registry
 - Transitioning from Full-Stack to Data Engineering
 - REST API optimization & database performance
@@ -69,6 +70,12 @@ Apache Iceberg\
 Pandas \| scikit-learn \| Feature Stores \| ETL/ELT \| Data Warehousing\
 Parquet/ORC/Avro \| Change Data Capture (CDC)
 
+### Data Analysis & Statistics:
+
+Data Understanding | Data Collection & Preparation | Data Cleaning | Exploratory Data Analysis (EDA)\
+Descriptive Statistics | Statistical Analysis Fundamentals | Data Interpretation | Data Quality\
+AI-Assisted Data Analysis | Database Querying | Analytical Workflows | Data-Driven Decision-Making
+
 ### Cloud & Platforms:
 
 AWS (Glue) \| Google Cloud (BigQuery, Dataflow) \| Data Lakes \|
@@ -86,6 +93,7 @@ SQL\
 ### Best Practices:
 
 - **Data Engineering:** Data Quality, Lineage, Observability, Governance
+- **Data Analysis:** Data Validation, Reproducible Analysis, Statistical Reasoning, Clear Communication of Findings
 - **Software Engineering:** Clean Code, Design Patterns, TDD, SOLID Principles
 - **API Design:** RESTful architecture, Security, Documentation
 - **Database:** Query optimization, Indexing, Performance tuning
@@ -114,11 +122,14 @@ SQL\
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Data Engineering & AI/ML
+### 📊 Data Engineering, Data Analysis & AI/ML
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-176B87?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-546E7A?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-3572A5?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
@@ -154,6 +165,33 @@ SQL\
 ------------------------------------------------------------------------
 
 <details open>
+<summary><b>🎓 Data Analysis Fundamentals (IHK Certificate) — Completed with Distinction</b></summary>
+
+<br>
+
+**Official course:** Basisanwendung Datenanalyse (IHK)  
+**Certificate issuer:** IHK-Projektgesellschaft mbH Ostbrandenburg  
+**Training provider:** thekey.ACADEMY  
+**Dates:** 15.09.2026 – 22.09.2026  
+**Duration:** 50 instructional hours  
+**Result:** Successfully completed with distinction (*mit Auszeichnung*)
+
+**Curriculum:**
+
+- ✅ Fundamentals of data analysis
+- ✅ Understanding data
+- ✅ Data acquisition, preparation and utilization
+- ✅ Introduction to statistical data analysis
+- ✅ Establishing data analysis and data culture within organizations
+- ✅ Introduction to data analysis techniques and tools
+- ✅ AI-assisted analysis and database queries
+- ✅ Practical data analysis module
+
+</details>
+
+------------------------------------------------------------------------
+
+<details open>
 <summary><b>📊 Data Engineering with Python - Completed</b></summary>
 
 <br>
@@ -172,12 +210,13 @@ SQL\
 </details>
 
 ------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 <div align="center">
 
 #### 🏷️ Pronouns: He/Him
 
-#### 📫 Open to: Junior Data Engineer roles \| Full-Stack Developer with Data focus
+#### 📫 Open to: Data Engineer \| Data Analyst \| Backend / Software Developer roles
 
 </div>
 
